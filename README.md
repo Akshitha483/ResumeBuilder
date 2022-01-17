@@ -5,8 +5,6 @@
 
 ## Quick Start
 
-Clone the repository and do following:
-
 ```bash
 # Install dependencies for server
 npm install
